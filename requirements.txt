@@ -1,5 +1,7 @@
--i https://pypi.org/simple
-iniconfig==2.0.0 ; python_version >= '3.7'
-packaging==23.2 ; python_version >= '3.7'
-pluggy==1.3.0 ; python_version >= '3.8'
-pytest==7.4.2
+| Dependency | Reason for inclusion |
+|:----------:|:---------------------|
+|  `unittest`| to create and run tests, offering features like test cases |
+|  `datetime`| To efficiently manage and compare dates for tasks and deadlines in the application|
+|  `unittest`| Testing implementations in this project using automatic test cases |
+|  `sys`     | to manipulate the Python runtime environment |
+|  `StringIO`| allows capturing the output of print statements in the tests |
