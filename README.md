@@ -1,2 +1,2 @@
 # deadline-tracker
-"Deadline Tracker" is a simple console application that helps users manage and track their deadlines. This project was developed as part of my coursework in the "Design Your Own App" (DYOP) course at TU Graz to practice programming in Python.
+This project is a console app for managing tasks and exam deadlines. It allows user to add, remove, view tasks and exams with specific due date. I take care about format, invalid inputs. The user can view the nearest deadlines (for the next two weeks) that can help for deadline tracing and prioritization. This project was developed as part of my coursework in the "Design Your Own App" (DYOP) course at TU Graz to practice programming in Python.
